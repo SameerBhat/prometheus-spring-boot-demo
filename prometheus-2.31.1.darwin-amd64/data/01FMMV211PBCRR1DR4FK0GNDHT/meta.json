@@ -1,0 +1,17 @@
+{
+	"ulid": "01FMMV211PBCRR1DR4FK0GNDHT",
+	"minTime": 1637071203009,
+	"maxTime": 1637078400000,
+	"stats": {
+		"numSamples": 142944,
+		"numSeries": 609,
+		"numChunks": 1218
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01FMMV211PBCRR1DR4FK0GNDHT"
+		]
+	},
+	"version": 1
+}
